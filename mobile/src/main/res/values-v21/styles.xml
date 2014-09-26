@@ -2,7 +2,7 @@
 <resources>
 
     <!--suppress AndroidDomInspection -->
-    <style name="MaterialTheme" parent="@android:style/Theme.Material.Light">
+    <style name="MyTheme" parent="@android:style/Theme.Material.Light">
 
     </style>
 
